@@ -4,3 +4,4 @@
 # File   : setup.py
 # IDE    : PyCharm
 
+# install paramiko
